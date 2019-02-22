@@ -1,4 +1,4 @@
-// Eric Anthony
+// Eric Anthon
 import java.util.*;
 
 class Queue<E> {
